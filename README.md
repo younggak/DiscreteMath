@@ -2,7 +2,7 @@
 
 ## Introduction
 This is the solver program which is a n x m grid with more outside number. Each cell will contain a number between 1 and 9. The aim of a puzzle is to not have a number colored diffrently, such that
-- The number of each column above is the same as the sum of the numbers in the black squares if the column.
+- The number of each column above is the same as the sum of the numbers in the black squares of the column.
 - The number of each rows right is the same as the sum of the numbers in the white qwuares of the column.
 - No information on the coloring is given, initially. 
 
