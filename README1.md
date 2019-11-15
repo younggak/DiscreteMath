@@ -70,6 +70,7 @@ Prof. Shin Hong hongshin@gmail.com
 Hayun Park gkahsdl@icloud.com
 Narin Kang 21800001@handong.edu
 HyunGyu Lee 21800601@handong.edu
+MinJae Yi 21800511@handong.edu
 SueGeun Song 21500359@handong.edu
 .
 .
